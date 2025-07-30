@@ -1,7 +1,7 @@
 # 🔐 Challenge: Login Admin Without Password
 
 **Category:** Broken Authentication  
-**Status:** ✅ Solved  
+**Status:** Solved  
 **Difficulty:** Medium
 
 ---
