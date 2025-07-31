@@ -1,4 +1,4 @@
-# 🔐 Challenge: Login Admin Without Password
+#  Challenge: Login Admin Without Password
 
 **Category:** Broken Authentication  
 **Status:** Solved  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧪 Vulnerability: SQL Injection in Login
+##  Vulnerability: SQL Injection in Login
 
 The login form allows SQL injection in the email field, which can be used to bypass password verification and log in as any user.
 
